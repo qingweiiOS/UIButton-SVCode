@@ -26,8 +26,8 @@
 }
 - (IBAction)action_sendCode:(UIButton *)sender {
     
-    [sender setCountdown:120];
-    
+    [sender setCountdown:10];
+    [sender setCountdown:20 keywords:@"loginCode"];
 }
 
 

@@ -78,8 +78,8 @@
 		4DC2232720883AD300139FD9 /* Class */ = {
 			isa = PBXGroup;
 			children = (
-				4DC2232820883AD300139FD9 /* UIButton+Code.m */,
 				4DC2232920883AD300139FD9 /* UIButton+Code.h */,
+				4DC2232820883AD300139FD9 /* UIButton+Code.m */,
 			);
 			path = Class;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4DC2230920883A9500139FD9 /* Build configuration list for PBXProject "UIButton+SVCode" */;
+			buildConfigurationList = 4DC2230920883A9500139FD9 /* Build configuration list for PBXProject "UIButton+SVCode " */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -330,7 +330,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4DC2230920883A9500139FD9 /* Build configuration list for PBXProject "UIButton+SVCode" */ = {
+		4DC2230920883A9500139FD9 /* Build configuration list for PBXProject "UIButton+SVCode " */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4DC2232220883A9600139FD9 /* Debug */,
